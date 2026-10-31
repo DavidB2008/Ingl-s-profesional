@@ -6,3 +6,4 @@
   * [Cover Letter](ingles-profesional/cover-letter.md)
   * [Tasks and duties](ingles-profesional/tasks-and-duties.md)
   * [Small talk conversation topics](ingles-profesional/small-talk-conversation-topics.md)
+  * [Small Talk as an Interviewer](ingles-profesional/small-talk-as-an-interviewer.md)
